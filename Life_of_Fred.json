@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "d43a271e-d8e7-11e9-8d21-8c859041a86d",
+    "crowdanki_uuid": "45f8ee42-d953-11e9-8abb-8c859041a86d",
     "deck_config_uuid": "d43a28e8-d8e7-11e9-acec-8c859041a86d",
     "deck_configurations": [
         {
@@ -141,7 +141,7 @@
             "name": "Cloze",
             "sortf": 0,
             "tags": [
-                "lof-fractions-13"
+                "lof-frac-15"
             ],
             "tmpls": [
                 {
@@ -395,6 +395,286 @@
             "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
             "tags": [
                 "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The symbol &lt; stands for {{c1::less than}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q<=zYM&?Cm",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the symbol for \"less than\" is {{c1::&lt;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J*bGGu^e3:",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do you call words which sound like what they describe, like <i>zoom, swish, </i>and <i>whoosh</i>? {{c1::Onomatopoetic}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B&vF(lhOLt",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-02"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What's a fancy word for \"exaggeration\", like if Mom says \"I've told you a million times to clean your room!\"&nbsp; {{c1::Hyperbole}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n-Fhd<Hy(8",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-05"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The shape of a slice of pizza or a slice of pie is called a {{c1::sector}} of a circle",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MH027hvU@s",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-07"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To reduce a fraction, {{c1::divide}} {{c2::the top and bottom}} by {{c3::the same number}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j,3*G;sgT`",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-09"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A mile is {{c1::8}} furlongs",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O[wQ]cIu:[",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-10"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Any fraction with a zero on top is equal to {{c1::zero}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sueJQ:y0aY",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Any fraction where the top and bottom are the same is equal to {{c1::one}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xb-]2wDJNZ",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The grown-up word for {{c2::the top of a fraction}} is the {{c1::numerator}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BO04kbU64o",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The grown-up word for {{c2::the bottom of a fraction}} is the {{c1::denominator}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fNPAt0%!C;",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "You can only compare two fractions if they have {{c1::a common denominator (that is, the same number on bottom)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c(:aD/9gc@",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To add or subtract fractions, you first must make them have {{c1::a common denominator (the same number on bottom)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A!T)9c[q@v",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-11"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To multiply fractions, {{c1::you multiply the two top numbers to get the top number of the answer and the two bottom numbers to get the bottom number of the answer.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QZTKs(5sV.",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you change the denominator (bottom number) of a fraction?&nbsp; {{c1::Multiply it by a \"name of one\"; that is, multiple the fraction by another fraction with the same number on top and on bottom}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G`0J]Hlg6p",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-12"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the word for \"looking at something and figuring out what's wrong\"?&nbsp; {{c1::diagnosis}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t<5+i#W9=u",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To add fractions<div><br></div><div>Step 1: {{c1::Make the bottoms the same by multiplying each fraction by a \"name of one\"}}</div><div>Step 2: {{c2::Add the tops}} and {{c3::copy the bottom}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m[hd!la7]t",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A {{c2::prodigal}}&nbsp;is {{c1::a person who wastes way too much money }}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E{!&V!CE32",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-14"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Alliteration}} is {{c2::when several words in a row begin with the same sound, like \"<b>p</b>ensive <b>p</b>artner in <b>p</b>izza <b>p</b>roduction, <b>p</b>lease <b>p</b>ut this <b>p</b>latter of <b>p</b>epperoni <b>p</b>izzas on the table\"}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tl[:CDB@9h",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-15"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::[$$]\\frac{x}{y}[/$$]}} means the same thing as {{c2::[$$]x \\div y[/$$]}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oruo.r8@&6",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-frac-15"
             ]
         }
     ]
