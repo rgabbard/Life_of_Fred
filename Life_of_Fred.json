@@ -1,0 +1,401 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "d43a271e-d8e7-11e9-8d21-8c859041a86d",
+    "deck_config_uuid": "d43a28e8-d8e7-11e9-acec-8c859041a86d",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "d43a28e8-d8e7-11e9-acec-8c859041a86d",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 1,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1568123056119",
+    "name": "Life of Fred",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "lof-fractions-13"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [
+                "lof-fractions-13"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does \"I\" mean in Roman numerals?",
+                "One"
+            ],
+            "flags": 0,
+            "guid": "uZYg%y+peN",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you write one in Roman numerals?",
+                "I"
+            ],
+            "flags": 0,
+            "guid": "AMh7AjO2DL",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does \"V\" mean in Roman numerals?",
+                "5"
+            ],
+            "flags": 0,
+            "guid": "v.s#`$2XUZ",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you write 5 in Roman numerals?",
+                "V"
+            ],
+            "flags": 0,
+            "guid": "xujSyL/:v1",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does X mean in Roman numerals?",
+                "10"
+            ],
+            "flags": 0,
+            "guid": "ZU8GoBoJz",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you write 10 in Roman numerals?",
+                "X"
+            ],
+            "flags": 0,
+            "guid": "xn<SlP4@9y",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does L mean in Roman numerals?",
+                "50"
+            ],
+            "flags": 0,
+            "guid": "J)32nQEMt=",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you write 50 in Roman numerals?",
+                "L"
+            ],
+            "flags": 0,
+            "guid": "b>Yy,B2usV",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does C mean in Roman numerals?",
+                "100"
+            ],
+            "flags": 0,
+            "guid": "Kl%II-(nmd",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you write 100 in Roman numerals?",
+                "C"
+            ],
+            "flags": 0,
+            "guid": "yPEHQ/$kTZ",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does D mean in Roman numerals?",
+                "500"
+            ],
+            "flags": 0,
+            "guid": "cYv!&pO+~V",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you write 500 in Roman numerals?",
+                "D"
+            ],
+            "flags": 0,
+            "guid": "M9|&cB.)[D",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does M mean in Roman numerals?",
+                "1000"
+            ],
+            "flags": 0,
+            "guid": "mVz;/8|3wf",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you write 1000 in Roman numerals?",
+                "M"
+            ],
+            "flags": 0,
+            "guid": "qLGyf;hP^_",
+            "note_model_uuid": "d43a351a-d8e7-11e9-93c8-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In Roman numerals, the letter I can only go to the left of {{c1::V}} or {{c2::X}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pe3U@$l}9f",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In Roman numerals, the letter X can only go to the left of {{c1::L}} or {{c2::C}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eKC_ww=}lr",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In Roman numerals the letter C can only go to the left of {{c1::D}} or {{c2::M}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v7<q`hcR2L",
+            "note_model_uuid": "d43a50d8-d8e7-11e9-9146-8c859041a86d",
+            "tags": [
+                "lof-fractions-13"
+            ]
+        }
+    ]
+}
